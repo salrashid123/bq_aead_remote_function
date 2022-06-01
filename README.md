@@ -25,6 +25,8 @@ As for speed/cost comparison?  The BQ internal function is predictably _much_ fa
 
 ![images/enc.jpg](images/enc.jpg)
 
+_(image taken from wikipedia)_
+
 Also see
 
 * [Google BigQuery Client-side AEAD Encryption](https://gist.github.com/salrashid123/7b6dd5f9d387acd0ec69d8c0992450d3)
