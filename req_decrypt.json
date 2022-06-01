@@ -1,0 +1,14 @@
+{
+    "requestId": "124ab1c",
+    "caller": "//bigquery.googleapis.com/projects/myproject/jobs/myproject:US.bquxjob_5b4c112c_17961fafeaf",
+    "sessionUser": "test-user@test-company.com",
+    "userDefinedContext": {
+     "key1": "value1",
+     "key2": "v2"
+    },
+    "calls": [
+     ["AZrLBEKGfE7IYXbkv6qMbLFq+pUaUjrNFaoGPDWu0XgzxnxNCakjJEOiTPoEjJ2cKle7zhsjX36FROoJLlhAOvNjIhYp", "somedata"],
+     ["AZrLBEL5LW60fZSqmTTZTeB293mhb9B1wK8ctxC8OGJTnIXBhCAcDNlPyeKocw==", "somedata"],
+     ["AZrLBEJkAWVC2DvoIxOg2i2/j4WT0HQY56n+sXvYq/sr/iWFUbiMUG3ewPjG", "somedata"]      
+    ]
+}
